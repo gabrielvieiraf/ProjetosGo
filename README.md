@@ -5,6 +5,7 @@ Esse repositório tem como objetivo compartilhar com o público meus códigos em
 
 # 📁 Pastas
 O repositório está dividido em níveis de dificuldades, para que você possa se achar melhor dentro do seu nível de programação. Dentro desses diretórios existem exemplos, projetos e muitas linhas de código que espero poder poupar um pouco do seu tempo nessa busca pelo conhecimento.
+
 ![mindblown](https://user-images.githubusercontent.com/48156370/82371551-c389a500-99f0-11ea-9662-236df3b460af.gif)
 <h4 align = "center">
 Feito por: Gabriel Vieira Flores 🤓
