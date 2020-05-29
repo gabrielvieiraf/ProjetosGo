@@ -22,7 +22,7 @@ func main() {
         
         var nome string = "Gabriel"
         
-        boolean f; //Variável booleana (Variável lógica (verdadeiro/falso)))
+        var flag boolean; //Variável booleana (Variável lógica (verdadeiro/falso)))
                
        //Inicializando Variáveis
         
