@@ -34,11 +34,11 @@ func main() {
       
        //Agora veja a diferença entre os tipos em uma divisão não exata  
        //Ponto Flutuante
-       System.out.println("Resultado da divisao: ")
-       System.out.println(a/d)
+       fmt.println("Resultado da divisao: ")
+       fmt.println(a/d)
        variavel := a/2
-       System.out.println("Resultado da divisao:\n ")
-       System.out.println(variavel)
+       fmt.println("Resultado da divisao:\n ")
+       fmt.println(variavel)
        //No caso do inteiro, todas as casas após a vírgula são desconsideradas.
     }   
 }
